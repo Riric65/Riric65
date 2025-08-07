@@ -11,11 +11,11 @@ Je suis un jeune passionné de **programmation**, de **tech**, de **création de
     Pour changer le thème, modifiez "&theme=..." avec un des thèmes suivants : dracula, dark, light, tokyonight, nord, etc.
 -->
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TON_NOM_D_UTILISATEUR_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Statistiques GitHub de Riric" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_NOM_D_UTILISATEUR_GITHUB&layout=compact&theme=tokyonight" alt="Langages les plus utilisés par Riric" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Riric65&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Statistiques GitHub de Riric" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riric65&layout=compact&theme=tokyonight" alt="Langages les plus utilisés par Riric" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TON_NOM_D_UTILISATEUR_GITHUB&theme=tokyonight" alt="Série de contributions de Riric" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Riric65&theme=tokyonight" alt="Série de contributions de Riric" />
 </p>
 
 ---
