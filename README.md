@@ -4,12 +4,20 @@ Je suis un jeune passionné de **programmation**, de **tech**, de **création de
 
 ---
 
+## ⚡ Activité en direct
+
+<p align="center">
+  <!-- Remplace TON_ID_DISCORD par ton vrai ID Discord -->
+  <a href="https://discord.com/users/1193194341619990558">
+    <img src="https://lanyard.cnrad.dev/api/1193194341619990558?theme=dark&borderRadius=5px" alt="Statut Discord de Riric" />
+  </a>
+</p>
+
+---
+
 ## 📊 Mes Stats GitHub
 
-<!-- 
-    IMPORTANT : Remplacez "TON_NOM_D_UTILISATEUR_GITHUB" par votre vrai nom d'utilisateur GitHub (ex: Riric65) dans les 3 liens ci-dessous ! 
-    Pour changer le thème, modifiez "&theme=..." avec un des thèmes suivants : dracula, dark, light, tokyonight, nord, etc.
--->
+<!-- Remplace TON_NOM_D_UTILISATEUR_GITHUB par ton vrai nom d'utilisateur -->
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Riric65&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Statistiques GitHub de Riric" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riric65&layout=compact&theme=tokyonight" alt="Langages les plus utilisés par Riric" />
@@ -40,38 +48,14 @@ Je suis un jeune passionné de **programmation**, de **tech**, de **création de
 </p>
 
 ---
-
-## 📦 Projets en cours
-
-- 🧲 **Jeu de Physique Multijoueur** (gravité + comptes + Socket.IO)
-- 🤖 **Mini IA** qui apprend en jouant (réseau de neurones simple)
-- 🌐 **Sites interactifs** et bots web connectés à Discord
-- 🌍 **Langue inventée Oiian** avec alphabet, grammaire, traducteur et curseur
-
----
-
-## 📜 Licence de mes projets
-
-La plupart de mes projets sont sous **GNU GPL v3.0** :
-> Vous pouvez les utiliser, modifier, partager… tant que vous gardez la licence et ne les rendez pas propriétaires.
-
----
-
-## 🎯 Objectifs
-
-- Créer des projets utiles et inspirants
-- Progresser en dev en m’amusant
-- Partager des outils pour apprendre avec moi
-- Monter en niveau jusqu'à coder des projets pro futuristes ⚡
-
----
+<!-- Le reste de ton profil ici... -->
 
 ## 📫 Retrouve-moi ici
 
-- GitHub : [github.com/Riric](https://github.com/Riric65) <!-- J'ai mis Riric65 qui semble être le bon -->
+- GitHub : [github.com/Riric65](https://github.com/Riric65)
 - YouTube : [@Riricofficial](https://www.youtube.com/@Riricofficial)
 - Discord : dans le **RicVerse** 👾
 
 ---
 
-> *“Laisse une trace dans le code, pas dans les cookies.”* 🍪  
+> *“Laisse une trace dans le code, pas dans les cookies.”* 🍪
